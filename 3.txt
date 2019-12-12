@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HI, I will be changing 2.txt file.
+=======
+This code needs to be changed, manager wants it to be more clear.
+>>>>>>> 4c62c1e9d50e6277fbac7fe394f709dd0bee217e
